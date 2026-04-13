@@ -2,6 +2,12 @@
 const express = require('express');
 const cors = require('cors');
 const axios = require('axios');
+const multer = require('multer');
+const { PDFParse } = require('pdf-parse');
+
+
+const storage = multer.memoryStorage();
+const upload = multer({ storage: storage });
 
 // 2. Initialize App
 const app = express();
@@ -16,13 +22,25 @@ app.get('/', (req, res) => {
     res.json({ message: "HireIQ Node Server is running" });
 });
 
-app.post('/analyze', async (req, res) => {
-    let { resume, jd } = req.body;
-    let response = await axios.post('http://localhost:8000/analyze', { resume: resume, job_description: jd });
-    console.log(resume);
-    console.log(jd);
-    res.json(response.data);
-    console.lo
+app.post('/analyze', upload.single('resume'), async (req, res) => {
+    try {
+        const { jd } = req.body;
+
+        const parser = new PDFParse({ data: req.file.buffer });
+        const pdfData = await parser.getText();
+        await parser.destroy();
+
+        const resume = pdfData.text;
+        const response = await axios.post('http://localhost:8000/analyze', {
+            resume,
+            job_description: jd
+        });
+
+        res.json(response.data);
+    } catch (error) {
+        console.error(error);
+        res.status(500).json({ error: 'Failed to analyze resume' });
+    }
 
 })
 
