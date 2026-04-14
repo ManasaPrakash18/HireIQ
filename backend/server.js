@@ -4,8 +4,8 @@ const cors = require('cors');
 const axios = require('axios');
 const multer = require('multer');
 const { PDFParse } = require('pdf-parse');
-const mongoose =require('mongoose');
-const Analysis= require('./models/analysis') ;
+const mongoose = require('mongoose');
+const Analysis = require('./models/analysis');
 
 const storage = multer.memoryStorage();
 const upload = multer({ storage: storage });
@@ -60,7 +60,18 @@ app.post('/analyze', upload.single('resume'), async (req, res) => {
         res.status(500).json({ error: 'Failed to analyze resume' });
     }
 
-})
+});
+
+// history route
+app.get('/history', async (req, res) => {
+    try {
+        let history = await Analysis.find().sort({ "created_at": -1 });
+        res.json(history);
+
+    } catch (err) {
+        res.status(500).send({ err: "Failed to fetch data" });
+    }
+});
 
 // 5. Start Server
 app.listen(PORT, () => {
