@@ -63,8 +63,8 @@ def perform_analysis(resume:str, job_description:str):
 
     return {
         "fit_score" : score,
-        "Matched_skills" : matched_skills,
-        "Missing_skills" : missing_skills
+        "matchedSkills" : matched_skills,
+        "missingSkills" : missing_skills
     }
 
 
