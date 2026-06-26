@@ -9,7 +9,9 @@ const AnalysisSchema = new mongoose.Schema({
     createdAt: {
         type: Date,
         default: Date.now
-    }
+    },
+    fileName: String,
+    fileSize: Number
 });
 
 module.exports = mongoose.model('Analysis', AnalysisSchema);

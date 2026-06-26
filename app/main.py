@@ -62,7 +62,7 @@ def perform_analysis(resume:str, job_description:str):
     # print(f"Missing Skills : {missing_skills}\n\n")
 
     return {
-        "fit_score" : score,
+        "fit_score": float(score),
         "matchedSkills" : matched_skills,
         "missingSkills" : missing_skills
     }
