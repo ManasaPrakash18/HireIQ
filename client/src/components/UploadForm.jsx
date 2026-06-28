@@ -46,28 +46,108 @@ export default function UploadForm() {
         // })
     }
 
+    let score = result ? result.fit_score * 100 : 0;
+
+    let fitClass =
+        score >= 80
+            ? "excellent"
+            : score >= 60
+                ? "good"
+                : score >= 40
+                    ? "moderate"
+                    : "low";
+
     return (
-        <div>
+        <div id="uploadForm" className="form-card">
+            <h2>Resume Analysis</h2>
+
+            <p className="form-subtitle">
+                Upload your resume and paste a job description to see your match score.
+            </p>
+
             <form onSubmit={handleSubmit}>
-                <label htmlFor="resume">Resume</label><br />
-                <input type="file" name="resume" id="resume" onChange={handleInput} required /><br /><br />
-                <label htmlFor="jd">Job Description</label><br />
-                <textarea name="jd" id="jd" value={formData.jd} onChange={handleInput} required></textarea><br /><br /><br />
+                <div className="inputFields">
+                    <label htmlFor="resume">
+                        Upload Resume (PDF)
+                    </label>
+                    <input type="file" name="resume" id="resume" onChange={handleInput} required />
+                </div>
+
+                <label htmlFor="jd">
+                    Job Description
+                </label>
+                <textarea name="jd" id="jd" value={formData.jd} onChange={handleInput} required></textarea>
+
                 <button
                     type="submit"
                     disabled={loading}
+                    className="btn"
                 >
                     {loading ? "Analysing..." : "Check Similarity"}
                 </button>
             </form>
 
-            {error && <p>{error}</p>}
+            {error && (
+                <p className="error">
+                    {error}
+                </p>
+            )}
 
-            {result && <div id="result" >
-                <p>Fit score : {(result.fit_score * 100).toFixed(0)}%</p>
-                <p>Matched skills : {result.matchedSkills.join(", ")}</p>
-                <p>Missing skills : {result.missingSkills.join(", ")}</p>
-            </div>}
+            {result && (
+                <div className="result-card">
+                    <h2>Resume Analysis</h2>
+
+                    <div className="score-section">
+                        <div className={`fit-score ${fitClass}`}>
+                            {(result.fit_score * 100).toFixed(0)}%
+                        </div>
+
+                    </div>
+
+                    <p className="analysis-summary">
+                        {result.matchedSkills.length} matched skills • {" "}
+                        {result.missingSkills.length} missing skills
+                    </p>
+
+                    <div>
+                        <h3>Matched Skills</h3>
+
+                        <div className="skills-container">
+                            {result.matchedSkills.length ? (
+                                result.matchedSkills.map((skill) => (
+                                    <span
+                                        key={skill}
+                                        className="skill-chip matched"
+                                    >
+                                        {skill}
+                                    </span>
+                                ))
+                            ) : (
+                                <p>No matching skills found.</p>
+                            )}
+                        </div>
+                    </div>
+
+                    <div>
+                        <h3>Missing Skills</h3>
+
+                        <div className="skills-container">
+                            {result.missingSkills.length ? (
+                                result.missingSkills.map((skill) => (
+                                    <span
+                                        key={skill}
+                                        className="skill-chip missing"
+                                    >
+                                        {skill}
+                                    </span>
+                                ))
+                            ) : (
+                                <p>No missing skills found.</p>
+                            )}
+                        </div>
+                    </div>
+                </div>
+            )}
         </div>
     )
 }

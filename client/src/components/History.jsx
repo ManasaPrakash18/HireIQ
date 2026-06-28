@@ -21,19 +21,67 @@ export default function History() {
         <div>
             {records ? (
                 <>
-                    <p>Total records : {history.length}</p>
+                    <h2 id="historyTitle">History</h2>
+                    <h3 id="recordCount">Total records : {history.length}</h3>
 
-                    {history.map((record) => (
-                        <div key={record._id}>
-                            <hr />
-                            <h3>{record.fileName}</h3>  
-                            <em>Created At : {new Date(record.createdAt).toLocaleDateString()}</em>
-                            <br />
-                            <p>Fit Score : {(record.fitScore *100).toFixed(2)}%</p>
-                            <p>Matched Skills : {record.matchedSkills.join(', ')}</p>
-                            <p>Missing Skills : {record.missingSkills.join(', ')}</p>
-                        </div>
-                    ))}
+                    <div id="history">
+
+                        {history.map((record) => (
+                            <div className="history-card" key={record._id}>
+                                <h3>{record.fileName}</h3>
+
+                                <em>
+                                    {new Date(record.createdAt).toLocaleDateString()}
+                                </em>
+
+                                <div className="score-section">
+                                    <div className="fit-score">
+                                        {(record.fitScore * 100).toFixed(0)}%
+                                    </div>
+
+                                    <div className="fit-label">
+                                        {(record.fitScore * 100) >= 80
+                                            ? "Excellent Fit"
+                                            : (record.fitScore * 100) >= 60
+                                                ? "Good Fit"
+                                                : (record.fitScore * 100) >= 40
+                                                    ? "Moderate Fit"
+                                                    : "Low Fit"}
+                                    </div>
+                                </div>
+
+                                <div>
+                                    <h3>Matched Skills</h3>
+
+                                    <div className="skills-container">
+                                        {record.matchedSkills.map((skill) => (
+                                            <span
+                                                key={skill}
+                                                className="skill-chip matched"
+                                            >
+                                                {skill}
+                                            </span>
+                                        ))}
+                                    </div>
+                                </div>
+
+                                <div>
+                                    <h3>Missing Skills</h3>
+
+                                    <div className="skills-container">
+                                        {record.missingSkills.map((skill) => (
+                                            <span
+                                                key={skill}
+                                                className="skill-chip missing"
+                                            >
+                                                {skill}
+                                            </span>
+                                        ))}
+                                    </div>
+                                </div>
+                            </div>
+                        ))}
+                    </div>
                     <hr />
                 </>
             ) : (
