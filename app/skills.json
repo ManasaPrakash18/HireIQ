@@ -1,0 +1,3700 @@
+{
+  "Python": {
+    "aliases": [
+      "python",
+      "python3",
+      "py"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Python",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Java": {
+    "aliases": [
+      "java"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Java",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "JavaScript": {
+    "aliases": [
+      "javascript",
+      "js",
+      "ecmascript"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "JavaScript",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "TypeScript": {
+    "aliases": [
+      "typescript",
+      "ts"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "TypeScript",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "C": {
+    "aliases": [
+      "c"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "C",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "C++": {
+    "aliases": [
+      "c++",
+      "cpp"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "C++",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "C#": {
+    "aliases": [
+      "c#",
+      "csharp"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "C#",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Go": {
+    "aliases": [
+      "go",
+      "golang"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Go",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Rust": {
+    "aliases": [
+      "rust"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Rust",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Kotlin": {
+    "aliases": [
+      "kotlin"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Kotlin",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Swift": {
+    "aliases": [
+      "swift"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Swift",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "PHP": {
+    "aliases": [
+      "php"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "PHP",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Ruby": {
+    "aliases": [
+      "ruby"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Ruby",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Scala": {
+    "aliases": [
+      "scala"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Scala",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "R": {
+    "aliases": [
+      "r"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "R",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "MATLAB": {
+    "aliases": [
+      "matlab"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "MATLAB",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Perl": {
+    "aliases": [
+      "perl"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Perl",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Lua": {
+    "aliases": [
+      "lua"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Lua",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Dart": {
+    "aliases": [
+      "dart"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Dart",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Julia": {
+    "aliases": [
+      "julia"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Julia",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Objective-C": {
+    "aliases": [
+      "objective-c"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Objective-C",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Haskell": {
+    "aliases": [
+      "haskell"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Haskell",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Elixir": {
+    "aliases": [
+      "elixir"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Elixir",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Erlang": {
+    "aliases": [
+      "erlang"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Erlang",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Groovy": {
+    "aliases": [
+      "groovy"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Groovy",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Fortran": {
+    "aliases": [
+      "fortran"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Fortran",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "COBOL": {
+    "aliases": [
+      "cobol"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "COBOL",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Assembly": {
+    "aliases": [
+      "assembly"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Assembly",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Bash": {
+    "aliases": [
+      "bash"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Bash",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "PowerShell": {
+    "aliases": [
+      "powershell"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "PowerShell",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "HTML": {
+    "aliases": [
+      "html"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "HTML",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "CSS": {
+    "aliases": [
+      "css"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "CSS",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Sass": {
+    "aliases": [
+      "sass"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Sass",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Less": {
+    "aliases": [
+      "less"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Less",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Bootstrap": {
+    "aliases": [
+      "bootstrap"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Bootstrap",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Tailwind CSS": {
+    "aliases": [
+      "tailwind css"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Tailwind CSS",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Material UI": {
+    "aliases": [
+      "material ui"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Material UI",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "React": {
+    "aliases": [
+      "react",
+      "reactjs",
+      "react.js"
+    ],
+    "category": "Frontend",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "React",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "frontend"
+    ]
+  },
+  "Next.js": {
+    "aliases": [
+      "next",
+      "nextjs",
+      "next.js"
+    ],
+    "category": "Frontend",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Next.js",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "frontend"
+    ]
+  },
+  "Vue.js": {
+    "aliases": [
+      "vue",
+      "vuejs",
+      "vue.js"
+    ],
+    "category": "Frontend",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Vue.js",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "frontend"
+    ]
+  },
+  "Nuxt.js": {
+    "aliases": [
+      "nuxt.js"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Nuxt.js",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Angular": {
+    "aliases": [
+      "angular"
+    ],
+    "category": "Frontend",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Angular",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "frontend"
+    ]
+  },
+  "Svelte": {
+    "aliases": [
+      "svelte"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Svelte",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "jQuery": {
+    "aliases": [
+      "jquery"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "jQuery",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Redux": {
+    "aliases": [
+      "redux"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Redux",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Webpack": {
+    "aliases": [
+      "webpack"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Webpack",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Vite": {
+    "aliases": [
+      "vite"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Vite",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Parcel": {
+    "aliases": [
+      "parcel"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Parcel",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Babel": {
+    "aliases": [
+      "babel"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Babel",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Three.js": {
+    "aliases": [
+      "three.js"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Three.js",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Node.js": {
+    "aliases": [
+      "node",
+      "nodejs",
+      "node.js"
+    ],
+    "category": "Backend",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Node.js",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "backend"
+    ]
+  },
+  "Express.js": {
+    "aliases": [
+      "express",
+      "expressjs",
+      "express.js"
+    ],
+    "category": "Backend",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Express.js",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "backend"
+    ]
+  },
+  "NestJS": {
+    "aliases": [
+      "nestjs",
+      "nest.js"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "NestJS",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Django": {
+    "aliases": [
+      "django"
+    ],
+    "category": "Backend",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Django",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "backend"
+    ]
+  },
+  "Flask": {
+    "aliases": [
+      "flask"
+    ],
+    "category": "Backend",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Flask",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "backend"
+    ]
+  },
+  "FastAPI": {
+    "aliases": [
+      "fastapi"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "FastAPI",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Spring": {
+    "aliases": [
+      "spring"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Spring",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Spring Boot": {
+    "aliases": [
+      "spring boot"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Spring Boot",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "ASP.NET": {
+    "aliases": [
+      "asp.net"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "ASP.NET",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Laravel": {
+    "aliases": [
+      "laravel"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Laravel",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Ruby on Rails": {
+    "aliases": [
+      "ruby on rails"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Ruby on Rails",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Gin": {
+    "aliases": [
+      "gin"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Gin",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Fiber": {
+    "aliases": [
+      "fiber"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Fiber",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Actix": {
+    "aliases": [
+      "actix"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Actix",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Rocket": {
+    "aliases": [
+      "rocket"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Rocket",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "GraphQL": {
+    "aliases": [
+      "graphql"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "GraphQL",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "REST API": {
+    "aliases": [
+      "rest api",
+      "rest",
+      "restful api"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "REST API",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "gRPC": {
+    "aliases": [
+      "grpc"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "gRPC",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "WebSockets": {
+    "aliases": [
+      "websockets"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "WebSockets",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "MySQL": {
+    "aliases": [
+      "mysql"
+    ],
+    "category": "Database",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "MySQL",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "database"
+    ]
+  },
+  "PostgreSQL": {
+    "aliases": [
+      "postgres",
+      "postgresql",
+      "psql"
+    ],
+    "category": "Database",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "PostgreSQL",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "database"
+    ]
+  },
+  "MongoDB": {
+    "aliases": [
+      "mongodb",
+      "mongo"
+    ],
+    "category": "Database",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "MongoDB",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "database"
+    ]
+  },
+  "Redis": {
+    "aliases": [
+      "redis"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Redis",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "SQLite": {
+    "aliases": [
+      "sqlite"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "SQLite",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "MariaDB": {
+    "aliases": [
+      "mariadb"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "MariaDB",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Oracle Database": {
+    "aliases": [
+      "oracle database"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Oracle Database",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Microsoft SQL Server": {
+    "aliases": [
+      "microsoft sql server"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Microsoft SQL Server",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Firebase": {
+    "aliases": [
+      "firebase"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Firebase",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Supabase": {
+    "aliases": [
+      "supabase"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Supabase",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "DynamoDB": {
+    "aliases": [
+      "dynamodb"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "DynamoDB",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Cassandra": {
+    "aliases": [
+      "cassandra"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Cassandra",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "CouchDB": {
+    "aliases": [
+      "couchdb"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "CouchDB",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Neo4j": {
+    "aliases": [
+      "neo4j"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Neo4j",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Elasticsearch": {
+    "aliases": [
+      "elasticsearch"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Elasticsearch",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "OpenSearch": {
+    "aliases": [
+      "opensearch"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "OpenSearch",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "InfluxDB": {
+    "aliases": [
+      "influxdb"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "InfluxDB",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "ClickHouse": {
+    "aliases": [
+      "clickhouse"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "ClickHouse",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "AWS": {
+    "aliases": [
+      "aws",
+      "amazon web services"
+    ],
+    "category": "Cloud",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "AWS",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "cloud"
+    ]
+  },
+  "Amazon EC2": {
+    "aliases": [
+      "amazon ec2"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Amazon EC2",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Amazon S3": {
+    "aliases": [
+      "amazon s3"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Amazon S3",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "AWS Lambda": {
+    "aliases": [
+      "aws lambda"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "AWS Lambda",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Amazon RDS": {
+    "aliases": [
+      "amazon rds"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Amazon RDS",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Amazon EKS": {
+    "aliases": [
+      "amazon eks"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Amazon EKS",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Amazon ECS": {
+    "aliases": [
+      "amazon ecs"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Amazon ECS",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Azure": {
+    "aliases": [
+      "azure",
+      "microsoft azure"
+    ],
+    "category": "Cloud",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Azure",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "cloud"
+    ]
+  },
+  "Azure Functions": {
+    "aliases": [
+      "azure functions"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Azure Functions",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Google Cloud": {
+    "aliases": [
+      "gcp",
+      "google cloud",
+      "google cloud platform"
+    ],
+    "category": "Cloud",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Google Cloud",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "cloud"
+    ]
+  },
+  "Google Kubernetes Engine": {
+    "aliases": [
+      "google kubernetes engine"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Google Kubernetes Engine",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Cloud Run": {
+    "aliases": [
+      "cloud run"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Cloud Run",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Cloud Functions": {
+    "aliases": [
+      "cloud functions"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Cloud Functions",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Cloud SQL": {
+    "aliases": [
+      "cloud sql"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Cloud SQL",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "DigitalOcean": {
+    "aliases": [
+      "digitalocean"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "DigitalOcean",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Heroku": {
+    "aliases": [
+      "heroku"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Heroku",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Vercel": {
+    "aliases": [
+      "vercel"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Vercel",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Netlify": {
+    "aliases": [
+      "netlify"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Netlify",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Docker": {
+    "aliases": [
+      "docker"
+    ],
+    "category": "DevOps",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Docker",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "devops"
+    ]
+  },
+  "Kubernetes": {
+    "aliases": [
+      "kubernetes",
+      "k8s"
+    ],
+    "category": "DevOps",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Kubernetes",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "devops"
+    ]
+  },
+  "Helm": {
+    "aliases": [
+      "helm"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Helm",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Terraform": {
+    "aliases": [
+      "terraform"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Terraform",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Ansible": {
+    "aliases": [
+      "ansible"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Ansible",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Puppet": {
+    "aliases": [
+      "puppet"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Puppet",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Chef": {
+    "aliases": [
+      "chef"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Chef",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Jenkins": {
+    "aliases": [
+      "jenkins"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Jenkins",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "GitHub Actions": {
+    "aliases": [
+      "github actions"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "GitHub Actions",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "GitLab CI": {
+    "aliases": [
+      "gitlab ci"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "GitLab CI",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "CircleCI": {
+    "aliases": [
+      "circleci"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "CircleCI",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Travis CI": {
+    "aliases": [
+      "travis ci"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Travis CI",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Argo CD": {
+    "aliases": [
+      "argo cd"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Argo CD",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Flux CD": {
+    "aliases": [
+      "flux cd"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Flux CD",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Prometheus": {
+    "aliases": [
+      "prometheus"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Prometheus",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Grafana": {
+    "aliases": [
+      "grafana"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Grafana",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Nginx": {
+    "aliases": [
+      "nginx"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Nginx",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Apache HTTP Server": {
+    "aliases": [
+      "apache http server"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Apache HTTP Server",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Machine Learning": {
+    "aliases": [
+      "machine learning"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Machine Learning",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Deep Learning": {
+    "aliases": [
+      "deep learning"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Deep Learning",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Artificial Intelligence": {
+    "aliases": [
+      "artificial intelligence"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Artificial Intelligence",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "TensorFlow": {
+    "aliases": [
+      "tensorflow"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "TensorFlow",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "PyTorch": {
+    "aliases": [
+      "pytorch"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "PyTorch",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Keras": {
+    "aliases": [
+      "keras"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Keras",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Scikit-learn": {
+    "aliases": [
+      "scikit-learn"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Scikit-learn",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "OpenCV": {
+    "aliases": [
+      "opencv"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "OpenCV",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Pandas": {
+    "aliases": [
+      "pandas"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Pandas",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "NumPy": {
+    "aliases": [
+      "numpy"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "NumPy",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Matplotlib": {
+    "aliases": [
+      "matplotlib"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Matplotlib",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "XGBoost": {
+    "aliases": [
+      "xgboost"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "XGBoost",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "LightGBM": {
+    "aliases": [
+      "lightgbm"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "LightGBM",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "CatBoost": {
+    "aliases": [
+      "catboost"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "CatBoost",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Hugging Face": {
+    "aliases": [
+      "hugging face"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Hugging Face",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "LangChain": {
+    "aliases": [
+      "langchain"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "LangChain",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "LlamaIndex": {
+    "aliases": [
+      "llamaindex"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "LlamaIndex",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "OpenAI API": {
+    "aliases": [
+      "openai api"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "OpenAI API",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "ChromaDB": {
+    "aliases": [
+      "chromadb"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "ChromaDB",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "FAISS": {
+    "aliases": [
+      "faiss"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "FAISS",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Pinecone": {
+    "aliases": [
+      "pinecone"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Pinecone",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "JUnit": {
+    "aliases": [
+      "junit"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "JUnit",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Mockito": {
+    "aliases": [
+      "mockito"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Mockito",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Jest": {
+    "aliases": [
+      "jest"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Jest",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Mocha": {
+    "aliases": [
+      "mocha"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Mocha",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Chai": {
+    "aliases": [
+      "chai"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Chai",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Vitest": {
+    "aliases": [
+      "vitest"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Vitest",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Cypress": {
+    "aliases": [
+      "cypress"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Cypress",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Playwright": {
+    "aliases": [
+      "playwright"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Playwright",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Selenium": {
+    "aliases": [
+      "selenium"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Selenium",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "PyTest": {
+    "aliases": [
+      "pytest"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "PyTest",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "NUnit": {
+    "aliases": [
+      "nunit"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "NUnit",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "xUnit": {
+    "aliases": [
+      "xunit"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "xUnit",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "TestNG": {
+    "aliases": [
+      "testng"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "TestNG",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Robot Framework": {
+    "aliases": [
+      "robot framework"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Robot Framework",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Git": {
+    "aliases": [
+      "git"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Git",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "GitHub": {
+    "aliases": [
+      "github"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "GitHub",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "GitLab": {
+    "aliases": [
+      "gitlab"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "GitLab",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Bitbucket": {
+    "aliases": [
+      "bitbucket"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Bitbucket",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Jira": {
+    "aliases": [
+      "jira"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Jira",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Confluence": {
+    "aliases": [
+      "confluence"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Confluence",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Postman": {
+    "aliases": [
+      "postman"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Postman",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Swagger": {
+    "aliases": [
+      "swagger"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Swagger",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "OpenAPI": {
+    "aliases": [
+      "openapi"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "OpenAPI",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Figma": {
+    "aliases": [
+      "figma"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Figma",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "VS Code": {
+    "aliases": [
+      "vs code"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "VS Code",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "IntelliJ IDEA": {
+    "aliases": [
+      "intellij idea"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "IntelliJ IDEA",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "PyCharm": {
+    "aliases": [
+      "pycharm"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "PyCharm",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Android Studio": {
+    "aliases": [
+      "android studio"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Android Studio",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Xcode": {
+    "aliases": [
+      "xcode"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Xcode",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Object-Oriented Programming": {
+    "aliases": [
+      "object-oriented programming"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Object-Oriented Programming",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Functional Programming": {
+    "aliases": [
+      "functional programming"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Functional Programming",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Data Structures": {
+    "aliases": [
+      "data structures"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Data Structures",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Algorithms": {
+    "aliases": [
+      "algorithms"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Algorithms",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "System Design": {
+    "aliases": [
+      "system design"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "System Design",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Microservices": {
+    "aliases": [
+      "microservices"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Microservices",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Design Patterns": {
+    "aliases": [
+      "design patterns"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Design Patterns",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "CI/CD": {
+    "aliases": [
+      "ci/cd",
+      "continuous integration",
+      "continuous delivery"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "CI/CD",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Agile": {
+    "aliases": [
+      "agile"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Agile",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Scrum": {
+    "aliases": [
+      "scrum"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Scrum",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "SOLID": {
+    "aliases": [
+      "solid"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "SOLID",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "MVC": {
+    "aliases": [
+      "mvc"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "MVC",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "MVVM": {
+    "aliases": [
+      "mvvm"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "MVVM",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Domain-Driven Design": {
+    "aliases": [
+      "domain-driven design"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Domain-Driven Design",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "Event-Driven Architecture": {
+    "aliases": [
+      "event-driven architecture"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "Event-Driven Architecture",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "OAuth": {
+    "aliases": [
+      "oauth"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "OAuth",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "JWT": {
+    "aliases": [
+      "jwt"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "JWT",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "WebRTC": {
+    "aliases": [
+      "webrtc"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "WebRTC",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "NoSQL": {
+    "aliases": [
+      "nosql"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "NoSQL",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  },
+  "SQL": {
+    "aliases": [
+      "sql"
+    ],
+    "category": "General",
+    "subcategory": "",
+    "parent": "",
+    "type": "Skill",
+    "vendor": "",
+    "status": "active",
+    "normalize_to": "SQL",
+    "related": [],
+    "versions": [],
+    "deprecated": [],
+    "misspellings": [],
+    "tags": [
+      "general"
+    ]
+  }
+}

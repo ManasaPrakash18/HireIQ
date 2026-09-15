@@ -1,3 +1,11 @@
 node_modules/
 backend/node_modules/
 .env
+.env.*
+!.env.example
+.venv/
+hireiq/
+__pycache__/
+*.py[cod]
+.DS_Store
+client/dist/

@@ -2,6 +2,7 @@ annotated-doc==0.0.4
 anyio==4.13.0
 certifi==2026.2.25
 click==8.3.2
+fastapi==0.116.1
 filelock==3.25.2
 fsspec==2026.3.0
 h11==0.16.0
@@ -20,6 +21,7 @@ networkx==3.6.1
 numpy==2.4.4
 packaging==26.0
 pandas==3.0.2
+pydantic==2.11.7
 Pygments==2.20.0
 python-dateutil==2.9.0.post0
 PyYAML==6.0.3
@@ -40,3 +42,4 @@ tqdm==4.67.3
 transformers==5.5.3
 typer==0.24.1
 typing_extensions==4.15.0
+uvicorn==0.35.0

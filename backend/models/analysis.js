@@ -4,14 +4,17 @@ const AnalysisSchema = new mongoose.Schema({
     resumeText: String,
     jdText: String,
     fitScore: Number,
-    matchedSkills: [String], // Array of strings
-    missingSkills: [String], // Array of strings
+    semanticScore: Number,
+    skillScore: Number,
+    matchedSkills: [String],
+    missingSkills: [String],
+    suggestions: [String],
     createdAt: {
         type: Date,
-        default: Date.now
+        default: Date.now,
     },
     fileName: String,
-    fileSize: Number
+    fileSize: Number,
 });
 
 module.exports = mongoose.model('Analysis', AnalysisSchema);
