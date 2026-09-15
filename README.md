@@ -2,6 +2,12 @@
 
 HireIQ is an AI-powered resume-to-job-description matching platform. Users upload a PDF resume, paste a job description, and receive a detailed match report with semantic similarity, explicit skill coverage, matched and missing skills, improvement suggestions, and full history tracking.
 
+## Live Application
+
+Use HireIQ here: [https://hire-iq-kappa.vercel.app/](https://hire-iq-kappa.vercel.app/)
+
+The production deployment uses Vercel for the React frontend and Render for the Node.js API and FastAPI ML service. MongoDB Atlas stores analysis history.
+
 ## Features
 
 - PDF resume upload
@@ -30,7 +36,7 @@ HireIQ is an AI-powered resume-to-job-description matching platform. Users uploa
 - Express.js
 - MongoDB + Mongoose
 - FastAPI
-- Python 3.14
+- Python 3.12
 - SentenceTransformers
 - scikit-learn
 - pandas
@@ -115,6 +121,8 @@ cd backend
 npm install
 ```
 
+The ML service is pinned to Python 3.12 in `runtime.txt`. The production dependency list uses the CPU-only PyTorch wheel because the hosted ML service does not require a GPU.
+
 ### 3. Frontend
 
 ```bash
@@ -136,6 +144,8 @@ Required variables:
 - FASTAPI_URL=http://localhost:8000/analyze
 - MONGODB_URI=mongodb://127.0.0.1:27017/hireiq
 - VITE_API_URL=http://localhost:5001
+
+Do not commit real credentials. Production services receive their environment variables through their hosting provider's settings.
 
 ## Run the app
 
@@ -159,6 +169,84 @@ node server.js
 cd app
 uvicorn main:app --host 0.0.0.0 --port 8000 --reload
 ```
+
+## Production Deployment
+
+### Service order
+
+Deploy the services in this order:
+
+1. FastAPI ML service on Render
+2. Node.js backend on Render
+3. React frontend on Vercel
+
+### Render: FastAPI ML service
+
+Create a Render Web Service using the repository root as the root directory.
+
+- Build command: `pip install -r requirements.txt`
+- Start command: `uvicorn app.main:app --host 0.0.0.0 --port $PORT`
+- Health check path: `/health`
+- Python version: `3.12.11` from `runtime.txt` or the Render `PYTHON_VERSION` environment variable
+
+The service loads `all-MiniLM-L6-v2` during startup and needs enough memory for PyTorch and the model. A service with at least 1 GB RAM is recommended.
+
+### Render: Node.js backend
+
+Create a second Render Web Service connected to the same repository.
+
+- Root directory: `backend`
+- Build command: `npm install`
+- Start command: `npm start`
+- Health check path: `/health`
+
+Set these environment variables in Render:
+
+```env
+MONGODB_URI=<MongoDB Atlas connection string>
+FASTAPI_URL=https://hireiq-5-b0sg.onrender.com/analyze
+```
+
+Render supplies `PORT` automatically. The server binds to `0.0.0.0` and uses Render's assigned port.
+
+### Vercel: React frontend
+
+Import the repository into Vercel with these settings:
+
+- Root directory: `client`
+- Framework: Vite
+- Build command: `npm run build`
+- Output directory: `dist`
+
+Set this Vercel environment variable with **Config** visibility:
+
+```env
+VITE_API_URL=https://<your-backend-service>.onrender.com
+```
+
+Because Vite exposes `VITE_` variables to the browser, `VITE_API_URL` must not be marked as a secret.
+
+### MongoDB Atlas
+
+Create a database user and configure Network Access so the Render backend can connect. Use the Atlas connection string as `MONGODB_URI`. Rotate credentials if they have ever been exposed in source files, screenshots, logs, or chat messages.
+
+### Deployment verification
+
+After each service deploys, verify:
+
+```text
+GET https://<ml-service>.onrender.com/health
+GET https://<backend-service>.onrender.com/health
+GET https://hire-iq-kappa.vercel.app/
+```
+
+The backend health endpoint should return:
+
+```json
+{"status":"ok"}
+```
+
+Then upload a text-based PDF resume, submit a job description, and confirm that the result is saved in History.
 
 ## MongoDB setup
 
