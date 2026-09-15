@@ -1,4 +1,6 @@
-require('dotenv').config({ path: require('path').resolve(__dirname, '../.env') });
+if (process.env.NODE_ENV !== 'production') {
+    require('dotenv').config({ path: require('path').resolve(__dirname, '../.env') });
+}
 
 const path = require('path');
 const { pathToFileURL } = require('url');
@@ -12,7 +14,7 @@ const { Types: { ObjectId } } = require('mongoose');
 const Analysis = require('./models/analysis');
 
 const app = express();
-const PORT = process.env.PORT || 5001;
+const PORT = process.env.PORT || 10000;
 const FASTAPI_URL = process.env.FASTAPI_URL || 'http://localhost:8000/analyze';
 const MONGODB_URI = process.env.MONGODB_URI || 'mongodb://127.0.0.1:27017/hireiq';
 
@@ -205,6 +207,6 @@ app.use((err, req, res, next) => {
     return res.status(500).json({ error: 'Unexpected server error.' });
 });
 
-app.listen(PORT, () => {
-    console.log(`🚀 Server running on http://localhost:${PORT}`);
+app.listen(PORT, '0.0.0.0', () => {
+    console.log(`🚀 Server running on 0.0.0.0:${PORT}`);
 });
